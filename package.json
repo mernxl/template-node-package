@@ -4,6 +4,16 @@
   "description": "Template for node Packages written in TypeScript, Features Jest, Eslint, Prettier",
   "author": "mernxl <mernxl@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/mernxl/template-node-package.git",
+  "bugs": "https://github.com/mernxl/template-node-package/issues",
+  "keywords": [
+    "template",
+    "node",
+    "typescript",
+    "jest",
+    "eslint",
+    "prettier"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
