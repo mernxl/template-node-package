@@ -1,0 +1,9 @@
+{
+  "name": "template-node-package",
+  "version": "1.0.0",
+  "description": "Template for node Packages written in TypeScript, Features Jest, Eslint, Prettier",
+  "author": "mernxl <mernxl@gmail.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts"
+}
