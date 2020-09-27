@@ -10,9 +10,13 @@ Template for node Packages written in TypeScript, Features Jest, Eslint, Prettie
 When initialised, you will need to update the following;
 1. Update Package `name`, `description`, `author`, `repository`, `bugs`, `keywords` fields found in the `package.json` file.
 1. Update `LICENSE` file as well as `license` field on the package.json file.
-1. Update this `README.md` file to contain your package specific information. Follow the following
+1. Update this `README.md` file to contain your package specific information. Update the following;
    - [ ] Replace all occurrences of `template-node-package` on this file.
    - [ ] Replace all occurrences of `mernxl` with appropriate, `mernxl` in this case is my username.
+1. Remove the `.gitkeep` file in `src` directory
+1. Run `yarn install`
+
+🚀 Happy Coding from mernxl 🚀
 
 ## Installation
 ```
@@ -20,3 +24,7 @@ yarn add template-node-package
 or
 npm install template-node-package
 ```
+
+### License
+This project is MIT Licensed - see the LICENSE.md file for details
+
