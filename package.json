@@ -6,6 +6,9 @@
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "yarn run clean && yarn run tsc -d",
     "clean": "rimraf lib",
