@@ -28,5 +28,6 @@
     "@typescript-eslint/interface-name-prefix": 0,
     "@typescript-eslint/no-non-null-assertion": 0,
     "simple-import-sort/sort": "error"
-  }
+  },
+  "ignorePatterns": ["lib"]
 }
